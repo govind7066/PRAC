@@ -1,0 +1,18 @@
+kali linux installation
+open file through VM 
+memory 512 create
+default username root & password toor
+Step 1 − Go to Application → Terminal. Then, type “apt-get update”
+Step 2 − Now to upgrade the tools, type “apt-get upgrade” 
+ Type “Y” and “Enter”. 
+
+Step 1 − Download Metasploitable, which is a Linux machine. It can be downloaded from the 
+official webpage of 
+Rapid7: https://information.rapid7.com/metasploitabledownload.html?LS=1631875&CS=web 
+Step 2 − Register by supplying your details. After filling the above form, we can download the 
+software. 
+Step 3 − Click VirtualBox → New
+Step 4 − Click “Use an existing virtual hard disk file”. Browse the file where you have 
+downloaded Metasploitable and click Open. 
+Step 5 − A screen to create a virtual machine pops up. Click “Create”. 
+ username is msfadmin and the password is msfadmin. 
